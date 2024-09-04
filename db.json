@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "username": "user2",
+      "email": "rfsffs@gmail.com",
+      "password": "eeerrr",
+      "id": 1
+    },
+    {
+      "username": "user3",
+      "email": "rfswffs@gmail.com",
+      "password": "eeerrr",
+      "id": 2
+    },
+    {
+      "username": "Yadhu",
+      "email": "iamyadhu333@gmail.com",
+      "password": "1234",
+      "id": 3
+    }
+  ],
+  "videos": [
+    {
+      "videoId": "2",
+      "title": "Husn",
+      "imageUrl": "https://i.ytimg.com/vi/gJLVTKhTnog/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "id": 2
+    },
+    {
+      "videoId": "3",
+      "title": "Alag Aasmaan",
+      "imageUrl": "https://i.ytimg.com/vi/vA86QFrXoho/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "id": 3
+    },
+    {
+      "videoId": "3",
+      "title": "Tauba Tauba",
+      "imageUrl": "https://ca.billboard.com/media-library/vicky-kaushal-and-karan-aujla-tauba-taubaa-from-bad-newz.jpg?id=52824944&width=1200&height=600&coordinates=0%2C0%2C0%2C80",
+      "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "id": 4
+    },
+    {
+      "videoId": "2",
+      "title": "Deadpool 3 Trailer",
+      "imageUrl": "https://i.ytimg.com/vi/4N_KxIISRzw/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "categoryId": "1",
+      "title": "Music",
+      "videos": [
+        {
+          "videoId": "3",
+          "title": "Tauba Tauba",
+          "imageUrl": "https://ca.billboard.com/media-library/vicky-kaushal-and-karan-aujla-tauba-taubaa-from-bad-newz.jpg?id=52824944&width=1200&height=600&coordinates=0%2C0%2C0%2C80",
+          "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+          "id": 4
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryId": "2",
+      "title": "Trailer",
+      "videos": [
+        {
+          "videoId": "2",
+          "title": "Deadpool 3 Trailer",
+          "imageUrl": "https://i.ytimg.com/vi/4N_KxIISRzw/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+          "id": 5
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryId": "2",
+      "title": "pop",
+      "videos": [
+        {
+          "videoId": "2",
+          "title": "Husn",
+          "imageUrl": "https://i.ytimg.com/vi/gJLVTKhTnog/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+          "id": 2
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "videoId": "3",
+      "title": "Alag Aasmaan",
+      "url": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "datetime": "2024-09-03T17:39:48.954Z",
+      "id": 1
+    },
+    {
+      "videoId": "3",
+      "title": "Alag Aasmaan",
+      "url": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
+      "datetime": "2024-09-04T06:46:29.909Z",
+      "id": 2
+    }
+  ]
+}
