@@ -77,20 +77,6 @@
         }
       ],
       "id": 2
-    },
-    {
-      "categoryId": "2",
-      "title": "pop",
-      "videos": [
-        {
-          "videoId": "2",
-          "title": "Husn",
-          "imageUrl": "https://i.ytimg.com/vi/gJLVTKhTnog/maxresdefault.jpg",
-          "videoUrl": "https://www.youtube.com/embed/undefined?si=wVmJVYmCf_X-YrNV&autoplay=1",
-          "id": 2
-        }
-      ],
-      "id": 3
     }
   ],
   "history": [
